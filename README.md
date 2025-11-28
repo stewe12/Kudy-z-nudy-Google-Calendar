@@ -10,7 +10,7 @@ Skript automaticky parsuje informace ze stránky události a předvyplní je do 
 
 ## 🛠️ Instalace
 
-Tento skript vyžaduje správce uživatelských skriptů, jako je **Tampermonkey** (doporučeno), **Greasemonkey** nebo **Violentmonkey**.
+Tento skript vyžaduje **Tampermonkey** (doporučeno), **Greasemonkey** nebo **Violentmonkey**.
 
 ### Postup instalace (pomocí Tampermonkey)
 
